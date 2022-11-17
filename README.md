@@ -1,4 +1,5 @@
 # IPL-Analysis
+## Tools Used : Jupyter Notebook, Python, NumPy, Pandas, Matplotlib, Seaborn & Plotly
 ## Some Important Analysis
 1. Batsman with most runs in IPL History
 2. Top 10 Wickets taker bowler
